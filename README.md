@@ -1,4 +1,4 @@
-﻿# CCU - Introduction to Programming
+﻿# CCUEE - Introduction to Programming
  Programming language: C
  
 > ## Homework_1 ... Perpetual Calendar
