@@ -1,1 +1,1 @@
-﻿# National Cheng Chung University - Introduction to Programming
+﻿# CCU - Introduction to Programming
