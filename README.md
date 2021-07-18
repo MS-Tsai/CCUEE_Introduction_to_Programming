@@ -16,4 +16,8 @@
 >     3) Choose another card and compare these two cards (same: remove them; not same: hide them).
 >     4) Repeat step 2 and 3 until removing all cards in the deck.
 
-> ## Homework_4 ... Coming soon
+> ## Homework_4 ... Vigenere and Morse Code
+> 1. Write a program to encode/decode message with the Vigenere table and Morse code.
+> 2. Please refer to a pdf file under the "Homework_4" folder to obtain more details.
+
+> ## H
