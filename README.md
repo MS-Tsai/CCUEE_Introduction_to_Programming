@@ -20,4 +20,8 @@
 > 1. Write a program to encode/decode message with the Vigenere table and Morse code.
 > 2. Please refer to a pdf file under the "Homework_4" folder to obtain more details.
 
-> ## H
+> ## Homework_5 ... Binary Conversion
+> 1. Write a program to convert an integer number to its 16-bit binary representation.
+> 2. The program should be able to detect errors in input and convert from signed integer.
+
+> ## Homework_6 ... Coming soon
