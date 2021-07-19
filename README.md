@@ -24,4 +24,7 @@
 > 1. Write a program to convert an integer number to its 16-bit binary representation.
 > 2. The program should be able to detect errors in input and convert from signed integer.
 
-> ## Homework_6 ... Coming soon
+> ## Homework_6 ... Salary Sheet
+> 1. Write a program to record data including department, student_ID and salary.
+> 2. Please use linked list to store data.
+> 3. The function of the salary sheet contains "Add", "Search", "Show" and "Delete".
