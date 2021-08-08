@@ -1,5 +1,6 @@
 ﻿# CCUEE - Introduction to Programming
- Programming language: C
+ Date: 2016/02 ~ 2016/06
+ Programming language: C  
  
 > ## Homework_1 ... Perpetual Calendar
 > 1. Write a program to provide user a perpetual calendar which can be queried repeatedly.
