@@ -1,5 +1,5 @@
 ﻿# CCUEE - Introduction to Programming
- Date: 2016/02 ~ 2016/06
+ Date: 2016/02 ~ 2016/06  
  Programming language: C  
  
 > ## Homework_1 ... Perpetual Calendar
