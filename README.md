@@ -1,5 +1,4 @@
-﻿# CCUEE - Introduction to Programming
- Course date: 2016/02 ~ 2016/06  
+﻿# CCUEE - Introduction to Programming (2016 spring)
  Programming language: C
  
 > ## Homework_1 ... Perpetual Calendar
