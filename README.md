@@ -1,4 +1,4 @@
-﻿# CCUEE - Introduction to Programming <p><h3>(### 2016)</h3></p>
+﻿# CCUEE - Introduction to Programming <spin><h3>(### 2016)</h3></spin>
  Date: 2016/02 ~ 2016/06  
  Programming language: C  
  
